@@ -1,0 +1,20 @@
+﻿Build started 1/27/2013 10:37:31 AM.
+     1>Project "D:\Dropbox_zhicheng.yan.19841231_at_gmail\Dropbox\TA418\DemoProjects\ShaderDemo\DemoOpenGLVS10\DemoOpenGLVS10.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DemoOpenGLVS10.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\DemoOpenGLVS10.unsuccessfulbuild".
+         Touching "Debug\DemoOpenGLVS10.lastbuildstate".
+     1>Done Building Project "D:\Dropbox_zhicheng.yan.19841231_at_gmail\Dropbox\TA418\DemoProjects\ShaderDemo\DemoOpenGLVS10\DemoOpenGLVS10.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
